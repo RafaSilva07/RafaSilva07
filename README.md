@@ -41,11 +41,14 @@ If you'd like to connect or talk about technology, feel free to reach out via <a
 
 <h3>💻 &nbsp;Front-end:</h3>
 
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+
 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
 
